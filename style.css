@@ -1,0 +1,11 @@
+.container {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: left;    
+    width: 55%;
+    margin: 0 auto;
+}
